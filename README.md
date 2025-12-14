@@ -39,6 +39,10 @@
 
 > notes: i'm not tested bc i busy, have any problem please contact me
 
+> [AnyKernel3 customized for Moonlight kernel](https://github.com/m0onl1ghtt/AnyKernel3-m0onl1ghtt)
+
+> F&Q: soon.
+
 <div align="center" markdown="1">
 
 ### that's all!
