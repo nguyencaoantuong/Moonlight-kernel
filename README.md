@@ -17,13 +17,13 @@
 
 > Download: [Telegram channel](https://t.me/nguyencaoantuong)
 
-- **KernelSU variant:** KernelSU Next
-- **KernelSU Manager supported:** KernelSU Next
+- **KernelSU variant:** 
+- **KernelSU Manager supported:** 
 - **SELinux:** Enforcing 
 
 ### Features: 
 - just upstreamed to .356 
-- add KernelSU Next
+- add 
 - no OC for stablity and performance
 - hook kprobes
 - EroFS for some ROMs have EroFS
