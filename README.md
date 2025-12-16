@@ -1,5 +1,5 @@
 > [!CAUTION]
-> This is a experimental branch for test manual hook on KernelSU (and forks), please don't build in here.
+> This is a experimental branch for test manual hook on rsuntk KernelSU unofficial, please don't build in here.
 
 <p align="center">
   <img src="https://github.com/m0onl1ghtt/m0onl1ghtt/blob/main/sticker2.png" alt="a" width="200" height="200"/>
@@ -17,8 +17,8 @@
 
 > Download: [Telegram channel](https://t.me/nguyencaoantuong)
 
-- **KernelSU variant:** 
-- **KernelSU Manager supported:** 
+- **KernelSU variant:** rsuntk KSU fork (unofficial)
+- **KernelSU Manager supported:** idk
 - **SELinux:** Enforcing 
 
 ### Features: 
