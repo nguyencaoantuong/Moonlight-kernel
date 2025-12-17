@@ -1,5 +1,17 @@
 > [!CAUTION]
-> If **you** build **KernelSU Next version >3**, **you can use syscall hooks v1.7** **or use kprobes hook** (check a32_k+e_defconfig).
+> If **you** build **KernelSU Next version >3**:
+> 1. **You must use syscall hooks v1.7** **or use kprobes hook** (check a32_k+e_defconfig).
+> 2. ****You** must use ReZygisk CI builds** and **use Metamoudule** (list metamodule below)
+
+> [!TIP]
+> **Metamodule list**:
+> 1. [**OverlayFS**](https://github.com/KernelSU-Modules-Repo/meta-overlayfs)
+> 2. [**Mountify**](https://github.com/backslashxx/mountify)
+> 3. [**Magic Mount**](https://github.com/KernelSU-Modules-Repo/meta-mm)
+> 4. [**Magic Mount RS**](https://github.com/Tools-cx-app/meta-magic_mount/)
+> 5. [**Hybird Mound**](https://github.com/YuzakiKokuban/meta-hybrid_mount)
+> 
+> **ReZygisk CI builds you can get on [Actions tab](https://github.com/PerformanC/ReZygisk/actions) in the [repository](https://github.com/PerformanC/ReZygisk/)**
 <div align="center" markdown="1">
   
 <div align="center" markdown="1">
